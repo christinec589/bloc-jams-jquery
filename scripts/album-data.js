@@ -11,3 +11,4 @@ const album = {
     { title: 'Magenta', duration: '374.22', soundFileUrl: 'assets/music/magenta.mp3' }
   ]
 };
+
